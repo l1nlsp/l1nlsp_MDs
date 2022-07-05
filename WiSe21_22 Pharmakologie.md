@@ -2,7 +2,7 @@
 
 ## 1. Welche Aussagen treffen zu?
 
-- [x] Zytostatika werden in der klinischen Phase der Arzneimittelprüfung nicht an Gesunden überprüft.
+- [ ] Zytostatika werden in der klinischen Phase der Arzneimittelprüfung nicht an Gesunden überprüft.
 - [ ] Nicht alle Arzneimittel sind nach ihrer Zulassung initial verschreibungspflichtig.
 - [ ] Die therapeutische Dosis eines Arzneimittels wird in der ersten Phase der klinischen Arzneimittelprüfung bestimmt.
 - [ ] In Deutschland müssen alle Arzneimittel vom Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) oder von der europäischen Zulassungsbehörde European Medicines Agency (EMA) [**unverständlich**] werden.
@@ -16,7 +16,7 @@ Bereits gemacht.
 
 ## 3. Welche Aussagen treffen zu?
 
-- [x] Die Zellmembran besteht aus einer Phospholipid-Doppelschicht
+- [ ] Die Zellmembran besteht aus einer Phospholipid-Doppelschicht
 - [ ] Blutgruppen sind durch Oberflächenproteine bestimmbar.
 - [ ] Die auf der Oberfläche einer Zelle befindlichen Zuckerproteine nennt man Glycokalix.
 - [ ] Caveolase sind ca. 50 - 100 Mikrometer groß.
@@ -32,7 +32,7 @@ Bereits gemacht.
 
 ## 5. Welche Aussagen treffen zu?
 
-- [x] Die Letaldosis (LD50) ist die Dosis bei der 50% der Probanden sterben.
+- [ ] Die Letaldosis (LD50) ist die Dosis bei der 50% der Probanden sterben.
 - [ ] Die Effektivdosis (ED50) ist die Dosis, bei der 50% der Individuen eine bestimmte Wirkung zeigen.
 - [ ] Die Pharmakodynamik beschreibt den Wirkungsmechanismus und die Wirkstärke eines Arzneimittels.
 - [ ] The therapeutsiche Breite (Quotient aus LD50/ED50) ist eine Maßzahl für die Wirksamkeit eines Pharmakons.
@@ -164,10 +164,16 @@ Fähigkeit eines Keimes sich im Körper anzusiedeln und zu vermehren sowie der A
 ## 20. Ordnen Sie die Virulenzfaktoren richtig zu
 
 1. Resistenz gegen Erhitzen
-2. Auf der äußeren Wand von grammigativen? Bakterien vermittelt
+2. Auf der äußeren Wand von graminegativen Bakterien vermittelt
 3. Verhindert Phagozytose
 4. Fortbewegung
 5. Anheften an der Wirtszelle
+
+Geiseln  
+Endotoxine  
+Schleimkapsel  
+Sporen  
+Pili
 
 ## 21. Ordnen Sie richtig zu
 
