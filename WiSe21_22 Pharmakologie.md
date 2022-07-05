@@ -414,3 +414,91 @@ Emicizumab `__________`
 - [ ] Eine geringe Therapeutische Breite bringt ein geringeres Risiko einer Fehldosierung
 - [ ] Die Therapeutische Breite ist Maß der Arzneimittelsicherheit
 - [ ] Bei Medikamenten mit geringer Therapeutischer Breite werden oft Arzneimittel-Spiegel gemessen
+
+## 54. Was wird bei Patienten die Vitamin-K Antagonisten einnehmen aufgrund der geringen Therapeutischen Breite in regelmäßigen Abständen gemacht?
+
+- [ ] Therapie nur alle zwei Tage
+- [ ] Erhähung der Dosis bei Nasebluten
+- [ ] Reduktion der Dosis alle zwei Wochen
+- [ ] Bestimmung der Gerinnungsaktivität im Quick-Test (Prothrombin-Zeit)
+- [ ] Röntgenbild der Lunge
+
+## 55. Bei welchem der folgenden Krankheitsbilder ist bereits eine Gentherapie zugelassen und kann verordnet werden?
+
+- [ ] Thrombophilie
+- [ ] beta-Thalassämie
+- [ ] Rhematoide Arthritis
+- [ ] bestimmte immundefekte (ADA-SCID)
+- [ ] Atopie
+
+## 56. Welches Grundprinzip beschreibt die Immunomodulation?
+
+- [ ] Prinzip der Therapie ist das Verhindern der Vermehrung oder Freisetzung der Viren
+- [ ] entspricht dem Prinzip einer Impfung
+- [ ] die Unterstützung der körpereigenen Immunabwehr
+- [ ] das Verhindern einer Infektion
+- [ ] ist eine Therapie bei einer angeborenen Immunoschwäche
+
+## 57. Welche sind die häufigsten Erreger einer ambulant erworbenen Pneumonie?
+
+- [ ] Haemophilus influenzae
+- [ ] Myklopasmia pneumoniae
+- [ ] Streptokokkus pneumoniae
+- [ ] Legionella spp
+- [ ] Staphylokokkus aureus
+
+## 58. Für welchen Ionenkanal kodiert das CFTR-Gen das bei der zyklischen Fibrose defekt ist?
+
+- [ ] Natrium
+- [ ] Magnesium
+- [ ] Calcium
+- [ ] Chlorid
+- [ ] Kalium
+
+## 59. Was ist in Hinblick auf eine opportunistische Infektion im Rahmen einer HIV-infektion besonders relevant?
+
+- [ ] HI-Viruslasst
+- [ ] die Klinik mit unproduktivem Husten, Fieber und Belastungsdyspnoe
+- [ ] Leukozytenzahl
+- [ ] CD4-Helferzellzahl
+- [ ] LDH-Erhöhung
+
+## 60. Welche Erreger werden bei einer Antibiotikaprophylaxe mit einem Cephalosporine der 3. Generation nicht?? erfasst?
+
+- [ ] Staphylokokkus aureus
+- [ ] Penicilinase positive Staphylokokken
+- [ ] Enterokokken
+- [ ] Gramnegative Stäbchen
+- [ ] Grampositive Bakterien
+
+## 61. Welche der folgenden Komplikationen tritt bei Anlage einer PEG-Sonde am häugisten auf?
+
+- [ ] Buried-Bumper-Syndrom
+- [ ] In den Stomakanal verschleppte Tumorzellen
+- [ ] Lokale Wundinfektion
+- [ ] Peritonitis
+- [ ] Perforation
+
+## 62. Was gehört zu den Indikationen für einen Urinstatus?
+
+- [ ] Screeningverfahren (Beispielsweise für den Nachweis einer Glucosurie bspw. bei Schwangeren)
+- [ ] Beurteilung des metabolischen Status bei Patienten mit Risikofaktoren für eine Stoffwechselentgleichung
+- [ ] Verdacht auf Erkrankungen der ableitenden Harnwege und assozierter Organe (z.B. Prostata)
+- [ ] Verdacht auf Harnwegsinfekt
+- [ ] Zur Therapiesteurung bei Durchführung einer Harnsteinmetaphylaxe (pH-Wert-Ziele)
+
+## 63. Welcher Test bzw. serologische Parameter dient als HIV Suchtest und sollte bestimmt werden?
+
+- [ ] HIV-RNA Direktnachweis
+- [ ] HIV-AK Test
+- [ ] Leukozytenzahl
+- [ ] CD4-Helferzellzahl
+- [ ] HI-Viruslasst
+
+## 64.Welche Übertragungswege des HI-Virus kennen Sie?
+
+- [ ] parenterale Übertragung zum Beispiel über Blutprodukte, Transfusionen oder Nadelstichverletzungen
+- [ ] Tröpfcheninfektion (Husten, Niesen)
+- [ ] vertikale Transmission von der Mutter auf das Kind im Rahmen einer Schwangerschaft
+- [ ] ungeschützte Sexualkontakte
+- [ ] fäkal-orale Übertragung
