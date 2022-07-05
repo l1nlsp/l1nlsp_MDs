@@ -335,3 +335,82 @@ Antwort in Stunden: `_______________________`
 - [ ] lgG
 - [ ] lgE
 - [ ] Albumin
+
+## 44. Was ist die wichtigste Therapie des CiVD?
+
+- [ ] Knochenmarkstransplantation
+- [ ] Gentherapie
+- [ ] L.v. oder s.c Gabe von Immunglobulinen
+- [ ] Antibiotikagabe
+- [ ] Stammzelltransplantation
+
+## 45. Welche der folgenden Medikamente können zur Therapie der Allergie eingesetzt werden?
+
+- [ ] Glukokortikoide
+- [ ] Diuretika
+- [ ] Antihistaminika
+- [ ] Cholinergika
+- [ ] Cromoglincinsäure
+
+## 46. Orden Sie den einzelnen Bildern den richtigen Text zu
+
+![Grafik 12](https://uc708bd2701651029ac5807bad21.previews.dropboxusercontent.com/p/thumb/ABkzw4O-itAw1EIPH4EGpSc-JnkggEEYRsRbNdpRyplHen1OBrzKXDkc58vwO09iRXZzxG7TAxUgZa3XTbzLNriirkIPJA74ae2LDX8Ovm5BVzgdu1AVUsyohuUgtpTixHRjKyrzSLKmvWvVkEaS-QdONSjgbdpmIs2oinPfCKtuOKFcPpyXASixjqWgQ7shEkIhwRqlequADbKqBJntiy4jTs0FVnwN0p-l1fogqbWRHhCD7hCFHrg4OOeNJdub5NXgSIdOp4s2dSHR3jHb-LTKCKiIB_2YyiKrLmyvoxx699P6RodGU2qpYGMA7KFpj5WjjX_yySrzFuQE4hBuqGSURkxb3Ucts9KiAhLPoBaehvaQvIxNqtu53VTooHTY94qfWmiTlnaODmeaNWguxWIxcYSp21jAhvDdapDs20763tuBA4eCYU_YwC4w4fHmA1iozgj2GSB401JTmWXvGAN_L2oTdc0eni4TdahBSQsWCg/p.jpeg)
+
+## 47. Woraus können Stammzellen für therapeutische Stammzelltransplantation beim Menschen gewonnen werden?
+
+- [ ] aus Darmepithel
+- [ ] Knochenmark
+- [ ] aus der Kultur von Hela-Zellen
+- [ ] Peripheres BLut (nach Stimulation)
+- [ ] Nabelschnurblut
+
+## 48. Welche der folgenden Krankheiten zählt man zu den Autoinmunerkrankungen?
+
+- [ ] Hepatitis C
+- [ ] systematischer Lupus Erythematosus
+- [ ] theumatoide Arthritis
+- [ ] Osteoarthrose
+- [ ] Alzheimer Demenz
+
+## 49. Welche der folgenden Medikamente werden zur Therapie der Rheumatoiden Arthritis eingesetzt?
+
+- [ ] Anti-Malariamittel wie Hydroxichloroquin
+- [ ] Chemotherapeutika wie Methotrexat
+- [ ] Biologicals wie z.B. TNF-Blocker
+- [ ] Astmamittel aus der Gruppe der beta-Mimetika
+- [ ] Schmerzmittel wie z.B. Diclofenac oder Ibuprofen
+
+## 50. Welche Medikamente werden beim Allergischen Schock als Soforotmaßnahme eingesetzt?
+
+- [ ] Sympatholytika
+- [ ] GLukokortikoide
+- [ ] Parasympathomimetika
+- [ ] Sympathomimetika
+- [ ] Anticholinergika
+
+## 51. Ordnen Sie bitte den folgenden Biologicals jeweils deren therapeutischen Wirkmechanismus zu
+
+1. Aktivierung von Molekülen/Enzymen
+2. Aktivierung von Zellen zur Proliferation
+3. Blockieren der wirkung durch an das Zugmoelkül
+
+anti-TNF Antikörper `__________`  
+Erythropoeitin `__________`  
+anti-IL-5 Antikörper `__________`  
+Emicizumab `__________`
+
+## 52. Was soll durch die Einnahme von Vitamin-K verhindert werden?
+
+- [ ] Sichelzellanämie
+- [ ] chronisch myeloische Leukämie
+- [ ] mikrozytäre Erythrozyten
+- [ ] Leukozytose
+- [ ] Thrombose
+
+## 53. Vitamin-K Antagonisten haben eine sehr geringe "Therapeutische Breite". Welche Aussagen sind richtig?
+
+- [ ] Vitamin-K Antaginisten dürfen aufgrund der geringen Therapeutischen Breite nicht mehr verschrieben werden
+- [ ] Die Therapeutische Breite ergibt sich aus der sUmme der ED50 und der LD50
+- [ ] Eine geringe Therapeutische Breite bringt ein geringeres Risiko einer Fehldosierung
+- [ ] Die Therapeutische Breite ist Maß der Arzneimittelsicherheit
+- [ ] Bei Medikamenten mit geringer Therapeutischer Breite werden oft Arzneimittel-Spiegel gemessen
